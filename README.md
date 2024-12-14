@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aniket jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket jain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniket jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket jain" height="30" width="40" /></a>
+<a href="https://twitter.com/aniketj14856315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketj14856315" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniket-jain-637025196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-jain-637025196" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
